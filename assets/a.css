@@ -1,0 +1,10 @@
+.card{
+font-size : 1.2em;
+margin : 1%;
+text-align : center;
+border-style : solid;
+border-color : black;
+border-width : 2px;
+display : inline-block;
+width : 14.3%;
+}
